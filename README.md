@@ -13,7 +13,10 @@ A very simple multi-process processing framework by python
 
 
 # Man
-    python mutilp.py -h 
-    ![image](https://github.com/ipdcode/hades/blob/master/images/DNS_performance.png)
+help
+![image](https://github.com/ipdcode/hades/blob/master/images/DNS_performance.png)
+
+example
+![image](https://github.com/ipdcode/hades/blob/master/images/DNS_performance.png)
 
 # Testing
