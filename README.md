@@ -14,6 +14,7 @@ A very simple multi-process processing framework by python
 
 # Man
 * Help
+
 ![image](https://github.com/jsonkey/multiprocess/blob/master/help.JPG)
 
 
@@ -31,5 +32,4 @@ A very simple multi-process processing framework by python
                 output:
                     lines = ['aaaaaa\n', 'bbbbbb\n']
             '''
-            # your code
             rerurn lines
