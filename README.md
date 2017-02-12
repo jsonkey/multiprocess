@@ -29,4 +29,6 @@ A very simple multi-process processing framework by python
                 output:
                     lines = ['aaaaaa\n', 'bbbbbb\n']
             '''
-                rerurn lines
+            rerurn lines
+
+
