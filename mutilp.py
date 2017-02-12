@@ -4,7 +4,7 @@
 #
 
 """
-Cloud Files client library used internally
+A very simple multi-process processing framework by python
 """
 import os
 import sys
