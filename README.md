@@ -14,9 +14,18 @@ A very simple multi-process processing framework by python
 
 # Man
 help
-![image](https://github.com/ipdcode/hades/blob/master/images/DNS_performance.png)
+![image](https://github.com/jsonkey/multiprocess/blob/master/help.JPG)
 
-example
-![image](https://github.com/ipdcode/hades/blob/master/images/DNS_performance.png)
+Example
+![image](https://github.com/jsonkey/multiprocess/blob/master/example.JPG)
 
 # Testing
+woker.py
+        def func(lines):
+            '''input:
+                    lines = ['111111\n', '222222\n']
+                output:
+                    lines = ['aaaaaa\n', 'bbbbbb\n']
+            '''
+            # your code
+            rerurn lines
