@@ -1,4 +1,4 @@
-# multiprocess
+# Multiprocess
 A very simple multi-process processing framework by python
 
 # Design
@@ -17,11 +17,11 @@ A very simple multi-process processing framework by python
 
 ![image](https://github.com/jsonkey/multiprocess/blob/master/help.JPG)
 
-* Example
+* Example & Test
 
 ![image](https://github.com/jsonkey/multiprocess/blob/master/example.JPG)
 
-# Testing
+# Worker Description
     woker.py
     
     def func(lines):
