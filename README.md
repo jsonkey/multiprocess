@@ -13,15 +13,16 @@ A very simple multi-process processing framework by python
 
 
 # Man
-help
+* Help
 ![image](https://github.com/jsonkey/multiprocess/blob/master/help.JPG)
 
-Example
+* Example
 ![image](https://github.com/jsonkey/multiprocess/blob/master/example.JPG)
 
 # Testing
-woker.py
-        def func(lines):
+    woker.py
+    
+    def func(lines):
             '''input:
                     lines = ['111111\n', '222222\n']
                 output:
